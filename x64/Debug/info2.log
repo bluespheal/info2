@@ -1,0 +1,12 @@
+﻿  texturitas.cpp
+D:\OpenGL\glfw\include\shader\shader.h(48,34): warning C4101: 'e': variable local sin referencia
+D:\OpenGL\info2\texturitas.cpp(619,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\OpenGL\info2\texturitas.cpp(494,58): warning C4101: 'texturatechosilo': variable local sin referencia
+D:\OpenGL\info2\texturitas.cpp(782,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\OpenGL\info2\texturitas.cpp(783,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\OpenGL\info2\texturitas.cpp(787,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\OpenGL\info2\texturitas.cpp(788,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\OpenGL\info2\texturitas.cpp(790,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\OpenGL\info2\texturitas.cpp(791,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\OpenGL\info2\texturitas.cpp(798,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  info2.vcxproj -> D:\OpenGL\info2\x64\Debug\info2.exe
